@@ -1,1 +1,1 @@
-# sstall.gihub.io
+# sstall.github.io
